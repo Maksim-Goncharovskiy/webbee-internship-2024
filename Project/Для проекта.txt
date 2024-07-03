@@ -1,0 +1,30 @@
+Модуль subprocess - может пригодиться.
+
+1. Работа с API: модуль requests
+https://education.yandex.ru/handbook/python/article/modul-requests
+https://python-scripts.com/requests
+
+Fast API - Артема Шумейк
+
+2. Предобработка звука: ffmpeg
+https://kkroening.github.io/ffmpeg-python/
+https://github.com/kkroening/ffmpeg-python
+
+3. Транскрибирование аудио: whisper ai
+https://colab.research.google.com/github/openai/whisper/blob/master/notebooks/LibriSpeech.ipynb
+
+
+4. Диплом на тему суммаризации
+https://docviewer.yandex.ru/view/947186694/?page=28&*=XCn9SrvGYQ8W2dK7fsQ%2BlZwTT397InVybCI6Imh0dHBzOi8vdml0YWwubGliLnRzdS5ydS92aXRhbC9hY2Nlc3Mvc2VydmljZXMvRG93bmxvYWQvdml0YWw6MTg0NTMvU09VUkNFMDEiLCJ0aXRsZSI6IlNPVVJDRTAxIiwibm9pZnJhbWUiOnRydWUsInVpZCI6Ijk0NzE4NjY5NCIsInRzIjoxNzE5NDgwMjIxMDAyLCJ5dSI6IjkwNjgzODc0MTU2OTQyOTc2MyIsInNlcnBQYXJhbXMiOiJ0bT0xNzE5NDc5ODAyJnRsZD1ydSZsYW5nPXJ1Jm5hbWU9U09VUkNFMDEmdGV4dD0lRDAlOTQlRDAlQjAlRDElODIlRDAlQjAlRDElODElRDAlQjUlRDElODIlRDElOEIrJUQwJUI0JUQwJUJCJUQxJThGKyVEMSU4RCVEMCVCQSVEMSU4MSVEMSU4MiVEMSU4MCVEMCVCMCVEMCVCQSVEMSU4MiVEMCVCOCVEMCVCMiVEMCVCRCVEMCVCRSVEMCVCOSslRDElODElRDElODMlRDAlQkMlRDAlQkMlRDAlQjAlRDElODAlRDAlQjglRDAlQjclRDAlQjAlRDElODYlRDAlQjglRDAlQjgmdXJsPWh0dHBzJTNBLy92aXRhbC5saWIudHN1LnJ1L3ZpdGFsL2FjY2Vzcy9zZXJ2aWNlcy9Eb3dubG9hZC92aXRhbCUzQTE4NDUzL1NPVVJDRTAxJmxyPTEyMDAxMSZtaW1lPXBkZiZsMTBuPXJ1JnNpZ249YTAzMTgwNGNmNzkwNDAxYzlmYmY1MWUyNjU1NjdlZWUma2V5bm89MCJ9&lang=ru
+
+
+Датасеты:
+2) https://github.com/IlyaGusev/gazeta/?tab=readme-ov-file
+
+
+Вроде бы подходящие датасеты:
+1) https://huggingface.co/datasets/Hellisotherpeople/DebateSum?row=0 (+)
+2) https://huggingface.co/datasets/eReverter/cnn_dailymail_extractive?row=7 (+)
+3) https://huggingface.co/datasets/nianlong/long-doc-extractive-summarization-arxiv
+4) https://huggingface.co/datasets/nianlong/long-doc-extractive-summarization-pubmed (+)
+5) https://huggingface.co/datasets/nianlong/long-doc-extractive-summarization-gov-report (+)
